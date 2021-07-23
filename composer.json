@@ -1,6 +1,6 @@
 {
-  "name": "lovevox/module-customsizefee",
-  "description": "Product CustomeSize Fee",
+  "name": "lovevox/module-customersizefee",
+  "description": "Product CustomerSize Fee",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Lovevox\\CustomSizeFee\\": ""
+      "Lovevox\\CustomerSizeFee\\": ""
     }
   }
 }
